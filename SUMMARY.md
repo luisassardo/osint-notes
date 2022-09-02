@@ -1,3 +1,3 @@
 # Table of contents
 
-* [OSINT](README.md)
+* [OSINT training notes](README.md)
